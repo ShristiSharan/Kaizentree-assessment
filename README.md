@@ -1,3 +1,12 @@
+## Deliverables
+
+A Django project with the RESTful API application.
+Instructions for setting up and running the application.
+API documentation and instructions on how to consume the endpoints.
+Please deploy your web app on a free cloud tier provider like Heroku or azure or aws for students, and share the API endpoints for us to evaluate , including the query parameter and authentication token if need be. 
+Unit tests for each API endpoint.
+
+
 # Instructions
 
 Welcome to Kaizntree's frontend interview challenge.
